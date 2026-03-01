@@ -83,7 +83,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MainColor: {r: 0.29053432, g: 0.7605334, b: 0.81761, a: 0}
-    - _SecondaryColor: {r: 0.8805031, g: 0.84328514, b: 0.18551464, a: 0}
+    - _SecondaryColor: {r: 0.8742138, g: 0.43605483, b: 0.0962184, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7927675313675434887
 MonoBehaviour:
